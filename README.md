@@ -1,15 +1,27 @@
-<<<<<<< HEAD
-# ZEN MASTER V6700
+# 🔥 ZEN MASTER V6700
 
-Ultimate Recon Toolkit For Termux Bug Bounty Hunter.
+Ultimate Recon Toolkit for Bug Bounty Hunter (Termux Edition)
 
-Install:
+## ⚡ Features
+- Subdomain Enumeration
+- Live Host Detection
+- Port Scanning
+- URL Crawling
+- XSS Automation
+- SQLi Discovery
+- Nuclei Vulnerability Scan
+- Screenshot Automation
+- Subdomain Takeover Scan
+- Auto Report Generator
+
+## 📲 Install (Termux)
+
+pkg update -y
 pkg install git -y
 git clone https://github.com/zen-studi/ZEN-MASTER
 cd ZEN-MASTER
 bash install.sh
 ./zen
-=======
-# ZEN-MASTER
-Ultimate Recon Toolkit Termux
->>>>>>> 02daca6b323518c3730fe0662e5de13aae6c4e4d
+
+## ❤️ Author
+ZEN STUDI
